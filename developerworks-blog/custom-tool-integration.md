@@ -27,3 +27,5 @@ This example showed the absolute simplest type of tool integration that's possib
 
 When creating this custom tool we left the field **Additional properties** blank. This field contains free-form text and can be used as the basis of some pretty powerful yet simple tool integrations -- the topic of my next post.
 
+If you'd like more please take a look at the [custom tool documentation](https://console.ng.bluemix.net/docs/toolchains/toolchains_integrations.html#othertool)
+
