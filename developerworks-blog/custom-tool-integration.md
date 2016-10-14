@@ -14,10 +14,3 @@ Let's go to [Bluemix Devops](https://new-console.ng.bluemix.net/devops/). If thi
 Fill it in as follows:
 ![](OpenWhisk-CTI.png)
 
-
-
-
-
-
-
-We call this approach "Custom Tool" integration and works especially well if you just want to represent
